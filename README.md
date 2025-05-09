@@ -12,12 +12,8 @@ I’ve tried GitHub, and it’s... fine, I suppose. But honestly? I’m not a fa
 
 You won’t find a ton of contributions here, and don’t expect me to merge any pull requests. There’s no need to fork this repo either—I’m not interested in collaboration of the sort GitHub pushes.
 
----
-
 ## Contact Me
 
 Feel free to reach out via LinkedIn (though I’m not overly active there either). You’ll find more details about me, my work experience, and other boring things that come with being in the industry for so long. You won’t catch me on GitHub much, though.
-
----
 
 If you're still here after all that, I’m impressed. But don’t expect too much activity. This GitHub? It’s not a playground for everyone.
